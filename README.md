@@ -1,24 +1,41 @@
-<h1 align="center"><b>Hola! Soy Rodrigo! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,"/></td>
-    </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <h1>¡Hola! Soy Rodrigo</h1>
+  <p align="center">
+    <strong>Backend Developer | +1 Año de Experiencia Profesional | Laravel & PHP</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/rodrigo-gorlat-martos-294238187"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:rgmartos1994@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
+
+---
+
+### 🚀 Sobre mí
+- 💻 **Experiencia Profesional:** Cuento con **1 año de trayectoria** desarrollando con **Laravel**.
+- 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React**.
+- 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
+- ⚙️ **Filosofía:** Aplicando principios **SOLID** y Clean Code para garantizar un código mantenible.
+
+---
+
+### 🛠️ Tech Stack (Herramientas y Lenguajes)
+
+<div align="center">
+
+| **Área** | **Tecnologías Destacadas** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=php,laravel" height="40" /> |
+| <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="40" /> |
+| <img src="https://img.shields.io/badge/Aprendiendo-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=react" height="40" /> |
+| <img src="https://img.shields.io/badge/Database-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=mysql" height="40" /> |
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
+</div>
+
+
