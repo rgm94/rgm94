@@ -17,7 +17,6 @@
 - 💻 **Experiencia Profesional:** Cuento con **1 año de trayectoria** desarrollando con **Laravel**.
 - 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React**.
 - 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
-- ⚙️ **Filosofía:** Aplicando principios **SOLID** y Clean Code para garantizar un código mantenible.
 
 ---
 
