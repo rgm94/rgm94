@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Sobre mí
-- 💻 **Experiencia Profesional:** Cuento con **1 año de trayectoria** desarrollando con **Laravel**.
+- 💻 **Experiencia Profesional:** Cuento con más de **1 año de trayectoria** desarrollando con **Laravel**.
 - 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React**.
 - 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
 
