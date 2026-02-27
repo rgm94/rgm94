@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mí
 - 💻 **Experiencia Profesional:** Cuento con más de **1 año de trayectoria** desarrollando con **Laravel**.
-- 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React**.
+- 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React y Next.js**.
 - 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
 
 ---
@@ -28,7 +28,7 @@
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=php,laravel" height="40" /> |
 | <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="40" /> |
-| <img src="https://img.shields.io/badge/Aprendiendo-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=react" height="40" /> |
+| <img src="https://img.shields.io/badge/Aprendiendo-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" /> |
 | <img src="https://img.shields.io/badge/Database-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=mysql" height="40" /> |
 
 </div>
@@ -36,5 +36,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
 </div>
-
-
